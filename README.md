@@ -3,7 +3,7 @@
 # Project Title
 
 horiseon code refractor 
-
+## Credits 
 ## Description
 
 This first weekely challenge is a code refractor for the horiseon website. The goal with this project was to clone the starter code 
@@ -32,8 +32,7 @@ When the webpage is deployed it can be viewed normally on a standard desktop bro
 
 It has not yet been modified to fit a smaller screen yet.
 
-(screenshot of deployed webpage) (assets\images\horiseon-screen-shot.png)
-```
+![img] (assets\images\horiseon-screen-shot.png)
 
 ## Credits 
 
