@@ -32,7 +32,7 @@ When the webpage is deployed it can be viewed normally on a standard desktop bro
 
 It has not yet been modified to fit a smaller screen yet.
 
-![img] (assets\images\horiseon-screen-shot.png)
+![img](assets\images\horiseon-screen-shot.png)
 
 ## Credits 
 
