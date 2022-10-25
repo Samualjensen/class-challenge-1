@@ -24,7 +24,7 @@ Upload index.html, license.txt, and assets folder to the deployed webserver. The
 
 When the webpage is deployed it can be viewed normally on a standard desktop browser. It has not yet been modified to fit a smaller screen yet.
 
-![img](assets\images\horiseon-screen-shot.png)
+![img](./assets/images/horiseon-screen-shot.png)
 
 ## Credits 
 
